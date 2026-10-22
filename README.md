@@ -11,6 +11,8 @@
 
 ---
 
+### [Releases - SB.SB APP下载](https://github.com/EvanTop/sbsb/releases/tag/SBSB_v2.0.0)
+
 ## 项目简介
 
 SBSB 是一个轻量级 Android WebView 壳应用，将 [烧饼论坛](https://sb.sb) 封装为原生 Android 应用。与传统的基于系统 `WebView` 的方案不同，本应用内嵌 **Mozilla GeckoView** 引擎，完全脱离操作系统提供的 Chromium WebView 实现，从而在任何 Android 设备上都能获得一致的现代 Web 标准支持。
